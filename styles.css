@@ -1,0 +1,22 @@
+body {
+    padding-top: 56px;
+  }
+  
+  .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
+  footer h5 {
+    margin-bottom: 20px;
+  }
+  
